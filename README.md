@@ -80,14 +80,3 @@ npm run dev
 ```bash
 npm run build
 ```
-
----
-
-## Deployment
-
-The fastest way to get a public URL (free, no credit card):
-
-1. Push this repo to GitHub
-2. Go to [vercel.com](https://vercel.com) and import the repository
-3. Add `VITE_ANTHROPIC_KEY` as an environment variable in Vercel's project settings
-4. Click Deploy — you'll get a live URL like `https://exponent-app.vercel.app`
