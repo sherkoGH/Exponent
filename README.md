@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # EXPONENT - Website for productivity
+=======
+>>>>>>> 638fc64 (feat: switch AI from Anthropic to Gemini free API)
 
 > A self-improvement web app built for people who struggle with focus, procrastination, and turning vague goals into real action.
 
