@@ -13,9 +13,11 @@ Exponent is a browser-based productivity suite inspired by real struggles shared
 
 ### ◷ Focus Timer (Pomodoro)
 A circular animated Pomodoro timer with customizable work durations (5–90 min), pause/resume/reset controls, and automatic session logging. Tracks total focus minutes and deep work hours across sessions. Built around the **2-Minute Rule**
+<img width="1366" height="524" alt="5313fc83-9b8a-468f-8d3a-bad1c0464e40" src="https://github.com/user-attachments/assets/09c840b3-f52d-420b-91fb-f29d77a0cdc1" />
 
 ### ⊞ Task Board (Kanban)
 A drag-and-drop Kanban board with four columns: Backlog → Today → In Progress → Done. Each task supports priority levels (low / medium / high) and custom tags. All data persists in `localStorage` so nothing is lost on page refresh.
+<img width="1366" height="536" alt="29050794-ce74-4961-8328-f940c6f49f56" src="https://github.com/user-attachments/assets/d3aeb90e-9fd3-4791-bb43-095a1b4e6aef" />
 
 ### ◉ Sound Lab (Binaural Beats + Noise)
 A real-time audio engine built entirely with the **Web Audio API** — no audio files, no streaming, no external dependencies. Generates binaural beats across five scientifically-referenced frequency bands:
