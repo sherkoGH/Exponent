@@ -46,7 +46,7 @@ A 14-day focus activity bar chart, key productivity metrics (total focus minutes
 | UI Framework | React 18 (hooks, functional components) |
 | Build Tool | Vite |
 | Audio Engine | Web Audio API (native browser) |
-| AI Integration | Anthropic Claude API (`claude-sonnet-4`) |
+| AI Integration | Google Gemini API |
 | Data Persistence | `localStorage` |
 | Fonts | IBM Plex Mono + DM Sans |
 | Hosting | Vercel (free tier) |
@@ -57,7 +57,7 @@ A 14-day focus activity bar chart, key productivity metrics (total focus minutes
 
 ### Prerequisites
 - Node.js (LTS) - [nodejs.org](https://nodejs.org)
-- An Gemini API key - [aistudio.google.com](https://aistudio.google.com/api-keys)
+- A Google Gemini API key - [aistudio.google.com](https://aistudio.google.com/api-keys)
 
 ### Installation
 
